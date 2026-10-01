@@ -8,6 +8,7 @@ Airbus A350, which is where I learned to trace every requirement to a test. Movi
 
 | Project | What it shows |
 |---|---|
+| [bras-droit-platform](https://github.com/brenndaude/bras-droit-platform) | An AI operations platform running at a café-restaurant: MCP server over Gmail, POS and costs; Claude vision parsing of supplier invoices with a regression harness; a tool-using chat agent; a Gemini Live voice receptionist; a Next.js dashboard. 760+ tests |
 | [job-search-wiki](https://github.com/brenndaude/job-search-wiki) | A job search run as an LLM-maintained wiki with Claude Code: knowledge base, application packages, a one-page CV print gate and a pre-send quality gate |
 | [freshdeck](https://github.com/brenndaude/freshdeck) | A skateboard sim in Unreal Engine 5.8 (C++): the board is pure physics (impulses at the feet, measured inertia), body animation comes from a computer-vision pipeline; built with Claude Code subagents |
 | [elevator-predictive-maintenance](https://github.com/brenndaude/elevator-predictive-maintenance) | Predictive maintenance on real public data: unsupervised health scores, envelope-spectrum bearing diagnosis (99% held-out), cost-aware alerting |
@@ -17,6 +18,8 @@ Airbus A350, which is where I learned to trace every requirement to a test. Movi
 
 ## Client work (code private)
 
+- **ESME, café-restaurant, Bourg-Saint-Maurice.** The platform above, in production since April 2026,
+  plus a WhatsApp receptionist.
 - **Rockaway Beach Pilates, New York.** The studio's platform, live at
   [rbnypilates.com](https://rbnypilates.com): Next.js, React, Supabase, class sync with their booking
   system, and an AI receptionist (Claude with booking and hand-off tools on WhatsApp and web chat,
