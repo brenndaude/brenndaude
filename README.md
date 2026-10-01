@@ -9,6 +9,7 @@ Airbus A350, which is where I learned to trace every requirement to a test. Movi
 | Project | What it shows |
 |---|---|
 | [job-search-wiki](https://github.com/brenndaude/job-search-wiki) | A job search run as an LLM-maintained wiki with Claude Code: knowledge base, application packages, a one-page CV print gate and a pre-send quality gate |
+| [freshdeck](https://github.com/brenndaude/freshdeck) | A skateboard sim in Unreal Engine 5.8 (C++): the board is pure physics (impulses at the feet, measured inertia), body animation comes from a computer-vision pipeline; built with Claude Code subagents |
 | [elevator-predictive-maintenance](https://github.com/brenndaude/elevator-predictive-maintenance) | Predictive maintenance on real public data: unsupervised health scores, envelope-spectrum bearing diagnosis (99% held-out), cost-aware alerting |
 | [surftrack-vision](https://github.com/brenndaude/surftrack-vision) | Computer vision for surf sessions: YOLOv8 + ByteTrack tracking, MediaPipe pose, Blender retargeting, a Label Studio data engine |
 | [3d-cities](https://github.com/brenndaude/3d-cities) | City scenes in Blender from OpenStreetMap and LiDAR, rendered headless |
